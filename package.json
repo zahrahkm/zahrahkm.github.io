@@ -10,7 +10,7 @@
     "build": "quasar build",
     "build:pwa": "quasar build -m pwa",
     "lint": "eslint --ext .js,.vue ./",
-    "deploy": "gh-pages -d spa "
+    "deploy": "gh-pages -d build "
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
